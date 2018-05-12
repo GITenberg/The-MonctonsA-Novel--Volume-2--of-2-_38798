@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2656
     wikipedia: http://en.wikipedia.org/wiki/Susanna_Moodie
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38798#The-MonctonsA-Novel--Volume-2--of-2-
 gutenberg_issued: '2012-02-09'
 gutenberg_type: Text
 identifiers:
